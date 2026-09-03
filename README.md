@@ -4,8 +4,10 @@ Titles are superficial; capability is absolute. Adapting my toolkit to whatever 
 
 📜 *"He who adapts his policy to the times prospers."* ♟️
 
-<div align="centre"> 
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milann.codes@gmail.com) 
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milann.codes@gmail.com)
+
 </div>
 
 ---
