@@ -1,6 +1,6 @@
 # Hi 👋🏻, I'm Milann
 
-Titles are superficial; capability is absolute. Adapting my toolkit to whatever the objective demands.
+Titles are superficial, capability is absolute. Adapting my toolkit to whatever the objective demands.
 
 📜 *"He who adapts his policy to the times prospers."* ♟️
 
